@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.b7d3608b.css",
-    "main.js": "/static/js/main.20d5590d.js",
+    "main.js": "/static/js/main.68337e59.js",
     "static/media/Ubuntu-Regular.ttf": "/static/media/Ubuntu-Regular.1cbb1b79a23478cc89ad.ttf",
     "static/media/Ubuntu-Medium.ttf": "/static/media/Ubuntu-Medium.e37c5546eb1a6efc4818.ttf",
     "static/media/Ubuntu-Bold.ttf": "/static/media/Ubuntu-Bold.fec2d0f1431a6114a6ce.ttf",
@@ -12,10 +12,10 @@
     "index.html": "/index.html",
     "static/media/icon-arcade.svg": "/static/media/icon-arcade.a08c098289a31bb2f66d675be71565b3.svg",
     "main.b7d3608b.css.map": "/static/css/main.b7d3608b.css.map",
-    "main.20d5590d.js.map": "/static/js/main.20d5590d.js.map"
+    "main.68337e59.js.map": "/static/js/main.68337e59.js.map"
   },
   "entrypoints": [
     "static/css/main.b7d3608b.css",
-    "static/js/main.20d5590d.js"
+    "static/js/main.68337e59.js"
   ]
 }
